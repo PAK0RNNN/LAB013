@@ -3,7 +3,9 @@
 #include <cmath>
 using namespace std;
 
-void stat(const double[],int,double[]);
+
+
+void stat(const double[], int, double[]);
 
 int main(){
     double A[] = {1.2,3.5,6.9,7.8,12.5,0.5};
